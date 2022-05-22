@@ -8,4 +8,4 @@ This is my understanding of refactoring div into semantic.
     It made simplifying code a lot easier by removing excess unecessary code when I could figure out what the code was about based on playing with the px size, editing or removing segments of the code, or editing... words.... classes...? 
 
     Please send help! 
-    :sob: :sob: :sob:
+    
